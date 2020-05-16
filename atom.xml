@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gamesdownload.github.io/</id>
-    <title>Games</title>
-    <updated>2020-05-16T07:49:18.764Z</updated>
+    <title>GamesDownload</title>
+    <updated>2020-05-16T07:49:40.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gamesdownload.github.io/"/>
     <link rel="self" href="https://gamesdownload.github.io/atom.xml"/>
     <subtitle>一个游戏下载仓库</subtitle>
     <logo>https://gamesdownload.github.io/images/avatar.png</logo>
     <icon>https://gamesdownload.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Games</rights>
+    <rights>All rights reserved 2020, GamesDownload</rights>
     <entry>
         <title type="html"><![CDATA[005 Gamesys_V1.1-Gamersky]]></title>
         <id>https://gamesdownload.github.io/post/005-gamesys_v11-gamersky/</id>
