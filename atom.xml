@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://primarytastei.github.io/Games/</id>
-    <title>Gridea</title>
-    <updated>2020-05-16T05:29:13.961Z</updated>
+    <title>Games</title>
+    <updated>2020-05-16T05:44:51.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://primarytastei.github.io/Games/"/>
     <link rel="self" href="https://primarytastei.github.io/Games/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>一个游戏下载仓库</subtitle>
     <logo>https://primarytastei.github.io/Games/images/avatar.png</logo>
     <icon>https://primarytastei.github.io/Games/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, Games</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://primarytastei.github.io/Games/post/hello-gridea/</id>
