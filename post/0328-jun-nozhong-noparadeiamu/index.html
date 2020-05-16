@@ -12,8 +12,6 @@
 <link rel="stylesheet" href="https://gamesdownload.github.io/styles/main.css">
 <link rel="alternate" type="application/atom+xml" title="0328 君の中のパラディアーム - GamesDownload - Atom Feed" href="https://gamesdownload.github.io/atom.xml">
 
-<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
-
     
 
   <meta name="description" content="
@@ -100,19 +98,13 @@
       
 
       
+        <div id="vlaine-comment"></div>
+      
 
       <footer class="py-12 text-center px-4 md:px-0" v-pre>
   欢迎来到<a href="https://github.com/GamesDownload/GamesDownload.github.io" target="_blank">GamesDownload</a>，很高兴遇见你！
 </footer>
     </div>
-<div id="vcomments"></div>
-    <script>
-        new Valine({
-            el: '#vcomments',
-            appId: 'urSkNKlrS3p8pAo34M63GErr-gzGzoHsz',
-            appKey: 'kIRrxJ2cbW08m9xWkmtH5hmT'
-        })
-    </script>
 
     <!-- TOC Container -->
     <div class="fixed right-0 bottom-0 mb-16 mr-4 shadow w-8 h-8 rounded-full flex justify-center items-center z-10 cursor-pointer bg-white dark:bg-gray-500 dark:text-gray-200 hover:shadow-lg transition-all animated fadeInRight" @click="showToc = true">
@@ -281,6 +273,23 @@
     //初始化
     initImg();
   </script>
+  
+    <script type="application/javascript" src="https://unpkg.com/valine"></script>
+<script type="application/javascript">
+  new Valine({
+    el: '#vlaine-comment',
+    appId: 'urSkNKlrS3p8pAo34M63GErr-gzGzoHsz',
+    appKey: 'kIRrxJ2cbW08m9xWkmtH5hmT',
+    pageSize: 10,
+    notify: true,
+    avatar: 'mp',
+    verify: true,
+    placeholder: '来都来了，不妨评论一下',
+    visitor: true,
+    highlight: false,
+    recordIP: false,
+  })
+</script>
   
   
 </body>
