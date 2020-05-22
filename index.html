@@ -1,408 +1,490 @@
-<html lang="en">
+<!DOCTYPE html>
+<html>
+
 <head>
-  <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes" />
 <title>GamesDownload</title>
 <link rel="shortcut icon" href="https://gamesdownload.github.io/favicon.ico">
-<link href="https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.css" rel="stylesheet">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.7.2/animate.min.css">
-<link rel="stylesheet" href="https://gamesdownload.github.io/media/css/tailwind.css">
-<link rel="stylesheet" href="https://gamesdownload.github.io/styles/main.css">
-<link rel="alternate" type="application/atom+xml" title="GamesDownload - Atom Feed" href="https://gamesdownload.github.io/atom.xml">
+<link href="https://gamesdownload.github.io/styles/main.css?v=1590125560785" rel="stylesheet">
+<link href="//at.alicdn.com/t/font_1678829_ntebi130zaa.css" rel="stylesheet">
+<link rel="alternate" type="application/rss+xml" title="GamesDownload » Feed" href="https://gamesdownload.github.io/atom.xml">
 
-    
-
-  <meta name="description" content="一个游戏下载仓库" />
 </head>
-<body>
-  <div class="antialiased flex flex-col min-h-screen" id="app">
 
-    <div class="nav py-3 md:py-8 fixed w-full z-10 bg-gray-50 dark:bg-gray-700 transition-all duration-300" :class="{ 'scroll': scrolled }">
-  <div class="flex justify-end px-4">
-    <div class="w-8 h-8 flex justify-center items-center rounded-full md:hidden" @click="showMenu = !showMenu">
-      <i class="ri-close-line" v-show="showMenu"></i>
-      <i class="ri-menu-3-line" v-show="!showMenu"></i>
+<body>
+  <div class="main animated">
+    <div class="header animated fadeInDown">
+  <div class="site_title_container">
+    <div class="site_title">
+      <a href="https://gamesdownload.github.io">
+        GamesDownload
+      </a>
     </div>
   </div>
-  <nav class="max-w-4xl w-full mx-auto text-center flex flex-col md:flex-row justify-center md:block" :class="`${ showMenu ? 'block' : 'hidden' }`">
+  <div class="my_socials">
     
-      <a href="https://gamesdownload.github.io/" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
-        首页
-      </a>
     
-      <a href="https://gamesdownload.github.io/archives" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
-        归档
-      </a>
+    <a href="https://github.com/GamesDownload/GamesDownload.github.io" target="_blank">
+      <i class="iconfont icon-github"></i></a>
     
-      <a href="https://gamesdownload.github.io/tags" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
-        标签
-      </a>
+          
     
-      <a href="https://gamesdownload.github.io/post/about" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
-        关于
-      </a>
+          
     
-    <a href="https://gamesdownload.github.io/atom.xml" target="_blank" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
-      RSS
-    </a>
-  </nav>
+          
+    
+          
+    
+          
+    
+          
+    <a href="https://gamesdownload.github.io/atom.xml" target="_blank">
+      <i class="iconfont icon-rss"></i></a>
+  </div>
 </div>
 
-    <div class="max-w-4xl w-full mx-auto ">
-      
-        <header class="flex py-16 md:py-32 mt-12 flex-col md:flex-row px-4 md:px-0 animated fadeIn">
-  <div class="flex-1 order-2 md:order-1 md:pr-16">
-    <div class="text-4xl font-bold text-center md:text-left">
-      GamesDownload
-    </div>
-    <div class="text-xl text-gray-500 mt-4 text-center md:text-left">
-      一个游戏下载仓库
-    </div>
-    
-      <div class="mt-8 text-center md:text-left">
-        <a
-          href="/post/about" 
-          arget="_blank"
-          class="text-sm bg-yellow-50 dark:bg-indigo-500 dark:text-gray-700 font-semibold px-4 py-2 inline-block yellow-btn transition-fast rounded"
-        >LET&#39;S TALK!</a>
+<div class="header_menu">
+  
+  
+  <a href="https://gamesdownload.github.io/" class="menu">首页</a>
+  
+
+  
+  <a href="https://gamesdownload.github.io/archives" class="menu">归档</a>
+  
+
+  
+  <a href="https://gamesdownload.github.io/tags" class="menu">标签</a>
+  
+
+  
+  <a href="https://gamesdownload.github.io/post/about" class="menu">关于</a>
+  
+
+  <div class="gridea-search-div">
+    <form id="gridea-search-form" data-update="1590125560785" action="https://gamesdownload.github.io/search/">
+      <input class="gridea-search-input" autocomplete="off" spellcheck="false" name="q" />
+    </form>
+  </div>
+</div>
+
+    <div class="autopagerize_page_element">
+  
+  <div class="content">
+    <div class="post animated fadeInDown">
+      <div class="post_title">
+        <h2>
+          
+          <i class="iconfont icon-top"></i>
+          
+          <a href="https://gamesdownload.github.io/post/you-xi-mu-lu/">游戏目录</a>
+        </h2>
       </div>
-    
-    
-      <div class="mt-8 flex items-center">
-        
-          <div class="text-gray-500 mr-2">
-            Follow me 👉
+      <div class="list">
+        <div class="post_content">
+          <p></p>
+        </div>
+      </div>
+      <div class="post_footer">
+        <div class="meta">
+          <div class="info">
+            <div class="article-infos">
+              <i class="iconfont icon-words-sm"></i>
+              <span class="article-info">1759</span>
+              <i class="iconfont icon-time-sm"></i>
+              <span class="article-info">2020-05-16</span>
+            </div>
+            
+            <span class="field tags">
+              <i class="iconfont icon-tag-sm"></i>
+              
+              <a href="https://gamesdownload.github.io/tag/yJKAuvF3M/" class="article-info">游戏</a>
+              
+            </span>
+            
           </div>
-        
-        
-          
-            
-              <div class="relative mr-2 w-8 h-8 inline-flex items-center justify-center text-xl hover:bg-gray-200 transition-fast dark:hover:bg-gray-600 wechat">
-                <i class="ri-wechat-line"></i>
-                <img src="\media\images\custom-wechat.png" alt="" class="absolute left-0 w-32" style="max-width: initial; top: 100%;" >
-              </div>
-            
-          
-        
-          
-            
-              <a href="mailto:primarytastei@gmail.com" target="_blank" class="mr-2 w-8 h-8 inline-flex items-center justify-center text-xl hover:bg-gray-200 dark:hover:bg-gray-600 transition-fast">
-                <i class="ri-mail-line"></i>
-              </a>
-            
-          
-        
-          
-            
-              <a href="https://github.com/GamesDownload/GamesDownload.github.io" target="_blank" class="mr-2 w-8 h-8 inline-flex items-center justify-center text-xl hover:bg-gray-200 dark:hover:bg-gray-600 transition-fast">
-                <i class="ri-github-line"></i>
-              </a>
-            
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-            
-              <a href="https://jq.qq.com/?_wv=1027&amp;k=EO31UMAE" target="_blank" class="mr-2 w-8 h-8 inline-flex items-center justify-center text-xl hover:bg-gray-200 dark:hover:bg-gray-600 transition-fast">
-                <i class="ri-qq-line"></i>
-              </a>
-            
-          
-        
+        </div>
       </div>
-    
-  </div>
-  <div class="md:mx-8 flex-shrink-0 self-start rounded-full border-4 border-dotted border-transparent hover:border-yellow-50 p-2 w-32 h-32 order-1 md:order-2 mx-auto s3-dotted">
-    <img class="rounded-full object-cover" src="https://gamesdownload.github.io/images/avatar.png?v=1589685467337" alt="GamesDownload" width="100%" height="100%">
-  </div>
-</header>
-      
-
-      <div class="shadow-box bg-white dark:bg-gray-600 border-gray-300 rounded-none md:rounded-lg -mx-1 md:mx-0 md:px-0">
-        
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-      <i class="ri-star-line text-orange-200 absolute text-2xl left-0 ml-1 rotate-90"></i>
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://gamesdownload.github.io/post/you-xi-mu-lu/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          游戏目录
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2020-05-16</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        
-欢迎来到GamesDownload，很高兴遇见你！🤝
-
-📒目录
-
-0001 3D GayVilla 2
-0002 A Gay's Life
-0003 A Hand in the Darkness
-0004 Abdiel
-0005 Ab...
-      </div>
-      <a href="https://gamesdownload.github.io/post/you-xi-mu-lu/" class="btn">
-        Read more
-      </a>
     </div>
-    
-      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://gamesdownload.github.io/post-images/you-xi-mu-lu.png" alt="游戏目录">
-    
-  </div>
-
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-      <i class="ri-star-line text-orange-200 absolute text-2xl left-0 ml-1 rotate-90"></i>
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://gamesdownload.github.io/post/geng-xin-ri-zhi/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          更新日志
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2020-05-16</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        
-欢迎来到GamesDownload，很高兴遇见你！🤝
-
-📤日志内容
-
-V0.1.0(20.5.10) 建立仓库，添加自述文件，目录，0001-0040号文件
-V0.1.1(20.5.11) 更新仓库，添加工具，更新日志，0041-01...
-      </div>
-      <a href="https://gamesdownload.github.io/post/geng-xin-ri-zhi/" class="btn">
-        Read more
-      </a>
-    </div>
-    
-      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://gamesdownload.github.io/post-images/geng-xin-ri-zhi.png" alt="更新日志">
-    
-  </div>
-
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-      <i class="ri-star-line text-orange-200 absolute text-2xl left-0 ml-1 rotate-90"></i>
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://gamesdownload.github.io/post/gong-ju/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          工具
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2020-05-16</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        
-欢迎来到GamesDownload，很高兴遇见你！🤝
-
-🔧关于工具
-这里存放的都是用于对游戏进行修复以及提供其他帮助的软件，当出现游戏问题时，不妨来看看
-📒目录
-
-001 AlphaROMdiE
-002 DirectX Repair...
-      </div>
-      <a href="https://gamesdownload.github.io/post/gong-ju/" class="btn">
-        Read more
-      </a>
-    </div>
-    
-      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://gamesdownload.github.io/post-images/gong-ju.png" alt="工具">
-    
-  </div>
-
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://gamesdownload.github.io/post/0wfl-wei-fen-lei-you-xi/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          0WFL 未分类游戏
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2020-05-16</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        <blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-
-      </div>
-      <a href="https://gamesdownload.github.io/post/0wfl-wei-fen-lei-you-xi/" class="btn">
-        Read more
-      </a>
-    </div>
-    
-  </div>
-
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://gamesdownload.github.io/post/0374-peng-lai-bai-lu-ji/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          0374 蓬莱白鹿记
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2020-05-16</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        <blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-
-      </div>
-      <a href="https://gamesdownload.github.io/post/0374-peng-lai-bai-lu-ji/" class="btn">
-        Read more
-      </a>
-    </div>
-    
-  </div>
-
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://gamesdownload.github.io/post/0373-zui-naruluo-xuan-nojian/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          0373 罪ナル螺旋ノ檻
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2020-05-16</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        <blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-
-      </div>
-      <a href="https://gamesdownload.github.io/post/0373-zui-naruluo-xuan-nojian/" class="btn">
-        Read more
-      </a>
-    </div>
-    
-  </div>
-
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://gamesdownload.github.io/post/0372-iris-hao-xue-nowang/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          0372 IRIS-豪雪の王
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2020-05-16</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        <blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-
-      </div>
-      <a href="https://gamesdownload.github.io/post/0372-iris-hao-xue-nowang/" class="btn">
-        Read more
-      </a>
-    </div>
-    
-  </div>
-
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://gamesdownload.github.io/post/0371-hei-hua-tu-di-yang-cheng-gong-lue/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          0371 黑化徒弟养成攻略
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2020-05-16</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        <blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-
-      </div>
-      <a href="https://gamesdownload.github.io/post/0371-hei-hua-tu-di-yang-cheng-gong-lue/" class="btn">
-        Read more
-      </a>
-    </div>
-    
-  </div>
-
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://gamesdownload.github.io/post/0370-pawsandsteel/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          0370 Paws&amp;Steel
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2020-05-16</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        <blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-
-      </div>
-      <a href="https://gamesdownload.github.io/post/0370-pawsandsteel/" class="btn">
-        Read more
-      </a>
-    </div>
-    
-  </div>
-
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://gamesdownload.github.io/post/0369-yourdrydelight/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          0369 YourDryDelight
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2020-05-16</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        <blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-
-      </div>
-      <a href="https://gamesdownload.github.io/post/0369-yourdrydelight/" class="btn">
-        Read more
-      </a>
-    </div>
-    
   </div>
   
+  <div class="content">
+    <div class="post animated fadeInDown">
+      <div class="post_title">
+        <h2>
+          
+          <i class="iconfont icon-top"></i>
+          
+          <a href="https://gamesdownload.github.io/post/geng-xin-ri-zhi/">更新日志</a>
+        </h2>
       </div>
-
-      
-  <div class="my-4 flex justify-between px-4 md:px-0">
-    
-    
-      <a href="https://gamesdownload.github.io/page/2" class="btn btn-white">
-        下一页
-        <i class="ri-arrow-right-line ml-4"></i>
-      </a>
-    
-  </div>
-
-      <footer class="py-12 text-center px-4 md:px-0" v-pre>
-  欢迎来到<a href="https://github.com/GamesDownload/GamesDownload.github.io" target="_blank">GamesDownload</a>，很高兴遇见你！
-</footer>
-
+      <div class="list">
+        <div class="post_content">
+          <p></p>
+        </div>
+      </div>
+      <div class="post_footer">
+        <div class="meta">
+          <div class="info">
+            <div class="article-infos">
+              <i class="iconfont icon-words-sm"></i>
+              <span class="article-info">162</span>
+              <i class="iconfont icon-time-sm"></i>
+              <span class="article-info">2020-05-16</span>
+            </div>
+            
+            <span class="field tags">
+              <i class="iconfont icon-tag-sm"></i>
+              
+              <a href="https://gamesdownload.github.io/tag/cWL8A3zrU/" class="article-info">关于</a>
+              
+            </span>
+            
+          </div>
+        </div>
+      </div>
     </div>
   </div>
-  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-  <script src="https://gamesdownload.github.io/media/scripts/main.js"></script>
+  
+  <div class="content">
+    <div class="post animated fadeInDown">
+      <div class="post_title">
+        <h2>
+          
+          <i class="iconfont icon-top"></i>
+          
+          <a href="https://gamesdownload.github.io/post/gong-ju/">工具</a>
+        </h2>
+      </div>
+      <div class="list">
+        <div class="post_content">
+          <p></p>
+        </div>
+      </div>
+      <div class="post_footer">
+        <div class="meta">
+          <div class="info">
+            <div class="article-infos">
+              <i class="iconfont icon-words-sm"></i>
+              <span class="article-info">116</span>
+              <i class="iconfont icon-time-sm"></i>
+              <span class="article-info">2020-05-16</span>
+            </div>
+            
+            <span class="field tags">
+              <i class="iconfont icon-tag-sm"></i>
+              
+              <a href="https://gamesdownload.github.io/tag/dPuI1gq3h/" class="article-info">工具</a>
+              
+            </span>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="content">
+    <div class="post animated fadeInDown">
+      <div class="post_title">
+        <h2>
+          
+          <a href="https://gamesdownload.github.io/post/0wfl-wei-fen-lei-you-xi/">0WFL 未分类游戏</a>
+        </h2>
+      </div>
+      <div class="list">
+        <div class="post_content">
+          <p><blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+</p>
+        </div>
+      </div>
+      <div class="post_footer">
+        <div class="meta">
+          <div class="info">
+            <div class="article-infos">
+              <i class="iconfont icon-words-sm"></i>
+              <span class="article-info">23</span>
+              <i class="iconfont icon-time-sm"></i>
+              <span class="article-info">2020-05-16</span>
+            </div>
+            
+            <span class="field tags">
+              <i class="iconfont icon-tag-sm"></i>
+              
+              <a href="https://gamesdownload.github.io/tag/yJKAuvF3M/" class="article-info">游戏</a>
+              
+            </span>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="content">
+    <div class="post animated fadeInDown">
+      <div class="post_title">
+        <h2>
+          
+          <a href="https://gamesdownload.github.io/post/0374-peng-lai-bai-lu-ji/">0374 蓬莱白鹿记</a>
+        </h2>
+      </div>
+      <div class="list">
+        <div class="post_content">
+          <p><blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+</p>
+        </div>
+      </div>
+      <div class="post_footer">
+        <div class="meta">
+          <div class="info">
+            <div class="article-infos">
+              <i class="iconfont icon-words-sm"></i>
+              <span class="article-info">23</span>
+              <i class="iconfont icon-time-sm"></i>
+              <span class="article-info">2020-05-16</span>
+            </div>
+            
+            <span class="field tags">
+              <i class="iconfont icon-tag-sm"></i>
+              
+              <a href="https://gamesdownload.github.io/tag/yJKAuvF3M/" class="article-info">游戏</a>
+              
+            </span>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="content">
+    <div class="post animated fadeInDown">
+      <div class="post_title">
+        <h2>
+          
+          <a href="https://gamesdownload.github.io/post/0373-zui-naruluo-xuan-nojian/">0373 罪ナル螺旋ノ檻</a>
+        </h2>
+      </div>
+      <div class="list">
+        <div class="post_content">
+          <p><blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+</p>
+        </div>
+      </div>
+      <div class="post_footer">
+        <div class="meta">
+          <div class="info">
+            <div class="article-infos">
+              <i class="iconfont icon-words-sm"></i>
+              <span class="article-info">24</span>
+              <i class="iconfont icon-time-sm"></i>
+              <span class="article-info">2020-05-16</span>
+            </div>
+            
+            <span class="field tags">
+              <i class="iconfont icon-tag-sm"></i>
+              
+              <a href="https://gamesdownload.github.io/tag/yJKAuvF3M/" class="article-info">游戏</a>
+              
+            </span>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="content">
+    <div class="post animated fadeInDown">
+      <div class="post_title">
+        <h2>
+          
+          <a href="https://gamesdownload.github.io/post/0372-iris-hao-xue-nowang/">0372 IRIS-豪雪の王</a>
+        </h2>
+      </div>
+      <div class="list">
+        <div class="post_content">
+          <p><blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+</p>
+        </div>
+      </div>
+      <div class="post_footer">
+        <div class="meta">
+          <div class="info">
+            <div class="article-infos">
+              <i class="iconfont icon-words-sm"></i>
+              <span class="article-info">24</span>
+              <i class="iconfont icon-time-sm"></i>
+              <span class="article-info">2020-05-16</span>
+            </div>
+            
+            <span class="field tags">
+              <i class="iconfont icon-tag-sm"></i>
+              
+              <a href="https://gamesdownload.github.io/tag/yJKAuvF3M/" class="article-info">游戏</a>
+              
+            </span>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="content">
+    <div class="post animated fadeInDown">
+      <div class="post_title">
+        <h2>
+          
+          <a href="https://gamesdownload.github.io/post/0371-hei-hua-tu-di-yang-cheng-gong-lue/">0371 黑化徒弟养成攻略</a>
+        </h2>
+      </div>
+      <div class="list">
+        <div class="post_content">
+          <p><blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+</p>
+        </div>
+      </div>
+      <div class="post_footer">
+        <div class="meta">
+          <div class="info">
+            <div class="article-infos">
+              <i class="iconfont icon-words-sm"></i>
+              <span class="article-info">23</span>
+              <i class="iconfont icon-time-sm"></i>
+              <span class="article-info">2020-05-16</span>
+            </div>
+            
+            <span class="field tags">
+              <i class="iconfont icon-tag-sm"></i>
+              
+              <a href="https://gamesdownload.github.io/tag/yJKAuvF3M/" class="article-info">游戏</a>
+              
+            </span>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="content">
+    <div class="post animated fadeInDown">
+      <div class="post_title">
+        <h2>
+          
+          <a href="https://gamesdownload.github.io/post/0370-pawsandsteel/">0370 Paws&amp;Steel</a>
+        </h2>
+      </div>
+      <div class="list">
+        <div class="post_content">
+          <p><blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+</p>
+        </div>
+      </div>
+      <div class="post_footer">
+        <div class="meta">
+          <div class="info">
+            <div class="article-infos">
+              <i class="iconfont icon-words-sm"></i>
+              <span class="article-info">24</span>
+              <i class="iconfont icon-time-sm"></i>
+              <span class="article-info">2020-05-16</span>
+            </div>
+            
+            <span class="field tags">
+              <i class="iconfont icon-tag-sm"></i>
+              
+              <a href="https://gamesdownload.github.io/tag/yJKAuvF3M/" class="article-info">游戏</a>
+              
+            </span>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="content">
+    <div class="post animated fadeInDown">
+      <div class="post_title">
+        <h2>
+          
+          <a href="https://gamesdownload.github.io/post/0369-yourdrydelight/">0369 YourDryDelight</a>
+        </h2>
+      </div>
+      <div class="list">
+        <div class="post_content">
+          <p><blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+</p>
+        </div>
+      </div>
+      <div class="post_footer">
+        <div class="meta">
+          <div class="info">
+            <div class="article-infos">
+              <i class="iconfont icon-words-sm"></i>
+              <span class="article-info">23</span>
+              <i class="iconfont icon-time-sm"></i>
+              <span class="article-info">2020-05-16</span>
+            </div>
+            
+            <span class="field tags">
+              <i class="iconfont icon-tag-sm"></i>
+              
+              <a href="https://gamesdownload.github.io/tag/yJKAuvF3M/" class="article-info">游戏</a>
+              
+            </span>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+          </div>
+          
+<div class="paginator pager pagination">
+    <div class="paginator_container pagination_container">
+        
+         
+        <a href="https://gamesdownload.github.io/page/2" class="btn next older-posts older_posts">阅读更多文章</a>
+        
+    </div>
+</div>
+
+  </div>
+  <div class="footer">
+  
+  <div class="欢迎来到">
+    欢迎来到<a href="https://github.com/GamesDownload/GamesDownload.github.io" target="_blank">GamesDownload</a>,很高兴遇见你！
+  </div>
+  <div class="footer_slogan">
+    一个游戏下载仓库
+</div>
+<div id="back_to_top" class="back_to_top">
+  <span>△</span>
+</div>
+<script src="https://gamesdownload.github.io/media/scripts/util.js"></script>
+
+</div>
 </body>
 
 </html>
