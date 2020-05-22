@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gamesdownload.github.io</id>
     <title>GamesDownload</title>
-    <updated>2020-05-22T07:57:54.260Z</updated>
+    <updated>2020-05-22T09:27:10.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gamesdownload.github.io"/>
     <link rel="self" href="https://gamesdownload.github.io/atom.xml"/>
@@ -402,6 +402,28 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[更新日志]]></title>
+        <id>https://gamesdownload.github.io/post/geng-xin-ri-zhi/</id>
+        <link href="https://gamesdownload.github.io/post/geng-xin-ri-zhi/">
+        </link>
+        <updated>2020-05-22T08:23:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="日志内容">📤日志内容</h2>
+<ul>
+<li>V0.1.0(20.5.10) 建立仓库，添加<strong>自述文件</strong>，<strong>目录</strong>，<strong>0001-0040号文件</strong></li>
+<li>V0.1.1(20.5.11) 更新仓库，添加<strong>工具</strong>，<strong>更新日志</strong>，<strong>0041-0100号文件</strong>，<strong>001-012号工具</strong></li>
+<li>V0.1.2(20.5.12) 更新仓库，添加<strong>0101-0170号文件</strong></li>
+<li>V0.1.3(20.5.13) 更新仓库，添加<strong>0271-0321号文件</strong>，<strong>013号工具</strong></li>
+<li>V0.1.4(20.5.14) 更新仓库，添加<strong>0322-0337号文件</strong>，<strong>014号工具</strong></li>
+<li>V0.1.5(20.5.15) 更新仓库，添加<strong>0338-374号文件</strong></li>
+<li>V1.0.0(20.5.16) 更新仓库，由github地址变更为<strong>github page地址</strong></li>
+<li>V1.0.1(20.5.22) 更新仓库，替换仓库主题，添加<strong>搜索</strong>，<strong>友链</strong></li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[工具]]></title>
         <id>https://gamesdownload.github.io/post/gong-ju/</id>
         <link href="https://gamesdownload.github.io/post/gong-ju/">
@@ -718,23 +740,6 @@
 </blockquote>
 <!-- more -->
 <p>链接: https://pan.baidu.com/s/1Vl1EVQkILFaJHEXlrB7S4Q 提取码: a93v</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[0358 今天开始做男仆]]></title>
-        <id>https://gamesdownload.github.io/post/0358-jin-tian-kai-shi-zuo-nan-pu/</id>
-        <link href="https://gamesdownload.github.io/post/0358-jin-tian-kai-shi-zuo-nan-pu/">
-        </link>
-        <updated>2020-05-16T15:23:21.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-<!-- more -->
-<p>链接: https://pan.baidu.com/s/1vUpQp966-XwVSn5oTed6Rw 提取码: hev4</p>
 ]]></content>
     </entry>
 </feed>
