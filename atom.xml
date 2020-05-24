@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gamesdownload.github.io</id>
     <title>GamesDownload</title>
-    <updated>2020-05-22T09:39:52.322Z</updated>
+    <updated>2020-05-24T08:13:35.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gamesdownload.github.io"/>
     <link rel="self" href="https://gamesdownload.github.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://gamesdownload.github.io/post/you-xi-mu-lu/</id>
         <link href="https://gamesdownload.github.io/post/you-xi-mu-lu/">
         </link>
-        <updated>2020-05-22T08:54:11.000Z</updated>
+        <updated>2020-05-24T08:54:11.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
 <p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
 </blockquote>
@@ -395,6 +395,8 @@
 <li>0372 IRIS-豪雪の王</li>
 <li>0373 罪ナル螺旋ノ檻</li>
 <li>0374 蓬莱白鹿记</li>
+<li>0375 Fantasy Football Locker Stalker</li>
+<li>0376 I Can't Wait to be a Class</li>
 <li>0WFL 未分类游戏</li>
 </ul>
 <hr>
@@ -406,7 +408,7 @@
         <id>https://gamesdownload.github.io/post/geng-xin-ri-zhi/</id>
         <link href="https://gamesdownload.github.io/post/geng-xin-ri-zhi/">
         </link>
-        <updated>2020-05-22T08:23:48.000Z</updated>
+        <updated>2020-05-24T08:23:48.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
 <p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
 </blockquote>
@@ -418,9 +420,30 @@
 <li>V0.1.3(20.5.13) 更新仓库，添加<strong>0271-0321号文件</strong>，<strong>013号工具</strong></li>
 <li>V0.1.4(20.5.14) 更新仓库，添加<strong>0322-0337号文件</strong>，<strong>014号工具</strong></li>
 <li>V0.1.5(20.5.15) 更新仓库，添加<strong>0338-374号文件</strong></li>
-<li>V1.0.0(20.5.16) 更新仓库，由github地址变更为<strong>github page地址</strong></li>
-<li>V1.0.1(20.5.22) 更新仓库，替换仓库主题，添加<strong>搜索</strong>，<strong>友链</strong></li>
+<li>V1.0.0(20.5.16) 更新仓库，变更<strong>仓库地址</strong></li>
+<li>V1.0.1(20.5.22) 更新仓库，替换<strong>仓库主题</strong>，添加<strong>搜索</strong>，<strong>友链</strong></li>
+<li>V1.0.2(20.5.24) 更新仓库，添加<strong>0375号文件</strong>，<strong>0376号文件</strong>，更新<strong>0042号文件</strong>，<strong>0212号文件</strong></li>
 </ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://gamesdownload.github.io/post/guan-yu/</id>
+        <link href="https://gamesdownload.github.io/post/guan-yu/">
+        </link>
+        <updated>2020-05-24T08:09:23.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>这是一个提供游戏下载链接的小站，希望可以给你带来帮助<br>
+本站内所有游戏均搜集于网络，如有侵犯你的权益，请联系我删除<br>
+本站内所有游戏请下载后解压，如链接失效请及时与我联系恢复<br>
+本站内所有游戏解压码请加群获取<br>
+希望你可以喜欢本站</p>
+<h2 id="联系我呀">📬 联系我呀</h2>
+<p>Email：Primarytastei@gmail.com<br>
+Github：https://github.com/GamesDownload/</p>
 ]]></content>
     </entry>
     <entry>
@@ -428,7 +451,7 @@
         <id>https://gamesdownload.github.io/post/gong-ju/</id>
         <link href="https://gamesdownload.github.io/post/gong-ju/">
         </link>
-        <updated>2020-05-22T07:22:52.000Z</updated>
+        <updated>2020-05-24T08:02:44.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
 <p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
 </blockquote>
@@ -451,6 +474,39 @@
 <li>013 RPG Maker VX</li>
 <li>014 RMModifyV207 存档修改器</li>
 </ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[0376 I Can't Wait to be a Class]]></title>
+        <id>https://gamesdownload.github.io/post/0376-i-cant-wait-to-be-a-class/</id>
+        <link href="https://gamesdownload.github.io/post/0376-i-cant-wait-to-be-a-class/">
+        </link>
+        <updated>2020-05-24T08:01:37.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[0375 Fantasy Football Locker Stalker]]></title>
+        <id>https://gamesdownload.github.io/post/0375-fantasy-football-locker-stalker/</id>
+        <link href="https://gamesdownload.github.io/post/0375-fantasy-football-locker-stalker/">
+        </link>
+        <updated>2020-05-24T06:51:50.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+<!-- more -->
+<p>链接: https://pan.baidu.com/s/15uWObAZmCCh_3qF5PPRELw 提取码: ahhj</p>
 ]]></content>
     </entry>
     <entry>
@@ -689,57 +745,6 @@
 </blockquote>
 <!-- more -->
 <p>链接: https://pan.baidu.com/s/1asZ1MBlUwbR-RZaVY8Sk5w 提取码: c32v</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[0361 守护者传说]]></title>
-        <id>https://gamesdownload.github.io/post/0361-shou-hu-zhe-chuan-shuo/</id>
-        <link href="https://gamesdownload.github.io/post/0361-shou-hu-zhe-chuan-shuo/">
-        </link>
-        <updated>2020-05-16T15:26:32.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-<!-- more -->
-<p>链接: https://pan.baidu.com/s/1RrXfbgmh-a9hi4gyySsqGg 提取码: tcpr</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[0360 Desire]]></title>
-        <id>https://gamesdownload.github.io/post/0360-desire/</id>
-        <link href="https://gamesdownload.github.io/post/0360-desire/">
-        </link>
-        <updated>2020-05-16T15:23:47.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-<!-- more -->
-<p>链接: https://pan.baidu.com/s/1mpt64TBnoNfq6P2Kqg4o5g 提取码: rbch</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[0359 男の子のための触手図鑑]]></title>
-        <id>https://gamesdownload.github.io/post/0359-nan-nozi-notamenohong-shou-tu-jian/</id>
-        <link href="https://gamesdownload.github.io/post/0359-nan-nozi-notamenohong-shou-tu-jian/">
-        </link>
-        <updated>2020-05-16T15:23:32.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-<!-- more -->
-<p>链接: https://pan.baidu.com/s/1Vl1EVQkILFaJHEXlrB7S4Q 提取码: a93v</p>
 ]]></content>
     </entry>
 </feed>
