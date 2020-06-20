@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gamesdownload.github.io</id>
     <title>GamesDownload</title>
-    <updated>2020-06-20T13:24:14.667Z</updated>
+    <updated>2020-06-20T17:39:26.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gamesdownload.github.io"/>
     <link rel="self" href="https://gamesdownload.github.io/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://gamesdownload.github.io/images/avatar.png</logo>
     <icon>https://gamesdownload.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, GamesDownload</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://gamesdownload.github.io/post/guan-yu/</id>
+        <link href="https://gamesdownload.github.io/post/guan-yu/">
+        </link>
+        <updated>2020-06-20T13:24:05.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>这是一个提供游戏下载链接的小站，希望可以给你带来帮助<br>
+本站内所有游戏均搜集于网络，如有侵犯你的权益，请联系我删除<br>
+本站内所有游戏请下载后解压，如链接失效请及时与我联系恢复<br>
+本站内所有游戏解压码请加群获取<br>
+希望你可以喜欢本站</p>
+<h2 id="联系我呀">📬 联系我呀</h2>
+<p>Email：Primarytastei@gmail.com<br>
+Github：https://github.com/GamesDownload/</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[游戏目录]]></title>
         <id>https://gamesdownload.github.io/post/you-xi-mu-lu/</id>
@@ -418,26 +438,6 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[漫画目录(Beta)]]></title>
-        <id>https://gamesdownload.github.io/post/man-hua-mu-lu-beta/</id>
-        <link href="https://gamesdownload.github.io/post/man-hua-mu-lu-beta/">
-        </link>
-        <updated>2020-06-20T11:27:12.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="此界面仅用于展示漫画板块效果目前并未获得授权请勿随意传播">此界面仅用于展示漫画板块效果，目前并未获得授权，请勿随意传播</h2>
-<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-<figure data-type="image" tabindex="1"><img src="https://gamesdownload.github.io/post-images/1592650849571.png" alt="" width="198" height="198" loading="lazy"></figure>
-<h2 id="日曜日汉化组-httpswwwriyaoricom">日曜日汉化组 https://www.riyaori.com/</h2>
-<ul>
-<li>久之汤 卷二</li>
-<li>狗与熊5</li>
-</ul>
-<hr>
-<p>未完待续</p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[工具]]></title>
         <id>https://gamesdownload.github.io/post/gong-ju/</id>
         <link href="https://gamesdownload.github.io/post/gong-ju/">
@@ -489,7 +489,7 @@
 <li>V1.0.2(20.5.24) 更新仓库，添加<strong>0375号文件</strong>，<strong>0376号文件</strong>，更新<strong>0042号文件</strong>，<strong>0212号文件</strong></li>
 <li>V1.0.3(20.6.16) 更新仓库，添加<strong>0377-0384号文件</strong></li>
 <li>V1.0.4(20.6.19) 更新仓库，添加<strong>0385-0389号文件</strong></li>
-<li>V1.1.0(20.6.20) 更新仓库，添加<strong>0390号文件</strong>，添加<strong>0001-0190号文件标签</strong>，拟添加<strong>漫画板块</strong></li>
+<li>V1.1.0(20.6.20) 更新仓库，添加<strong>0390号文件</strong>，添加<strong>0001-0190号文件标签</strong></li>
 </ul>
 ]]></content>
     </entry>
@@ -508,56 +508,6 @@
 </blockquote>
 <!-- more -->
 <p>链接: https://pan.baidu.com/s/1vTaKtG5Qy2ivk9KFYFG_Qw 提取码: iyyw</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日曜日汉化组 久之汤 卷二(Beta)]]></title>
-        <id>https://gamesdownload.github.io/post/ri-yao-ri-han-hua-zu-jiu-zhi-tang-juan-er-beta/</id>
-        <link href="https://gamesdownload.github.io/post/ri-yao-ri-han-hua-zu-jiu-zhi-tang-juan-er-beta/">
-        </link>
-        <updated>2020-06-20T11:14:08.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-<!-- more -->
-<figure data-type="image" tabindex="1"><img src="https://gamesdownload.github.io/post-images/1592651027073.png" alt="" width="198" height="198" loading="lazy"></figure>
-<h2 id="漫画预览">漫画预览</h2>
-<figure data-type="image" tabindex="2"><img src="https://gamesdownload.github.io/post-images/1592651755125.png" alt="" loading="lazy"></figure>
-<h2 id="下载链接">下载链接</h2>
-<p>链接: https://pan.baidu.com/s/XXXXXXXXXXXXXXXX 提取码: XXXX</p>
-<h2 id="翻译人员名单">翻译人员名单</h2>
-<p>翻嵌 克魯特</p>
-<p>感谢日曜日汉化组提供的漫画汉化</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日曜日汉化组 狗与熊5(Beta)]]></title>
-        <id>https://gamesdownload.github.io/post/ri-yao-ri-han-hua-zu-gou-yu-xiong-5/</id>
-        <link href="https://gamesdownload.github.io/post/ri-yao-ri-han-hua-zu-gou-yu-xiong-5/">
-        </link>
-        <updated>2020-06-20T11:02:59.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-<!-- more -->
-<figure data-type="image" tabindex="1"><img src="https://gamesdownload.github.io/post-images/1592651027073.png" alt="" width="198" height="198" loading="lazy"></figure>
-<h2 id="漫画预览">漫画预览</h2>
-<figure data-type="image" tabindex="2"><img src="https://gamesdownload.github.io/post-images/1592651237398.png" alt="" loading="lazy"></figure>
-<h2 id="下载链接">下载链接</h2>
-<p>链接: https://pan.baidu.com/s/XXXXXXXXXXXXXXXX 提取码: XXXX</p>
-<h2 id="翻译人员名单">翻译人员名单</h2>
-<p>翻译 曉糕<br>
-嵌字 想吃糯米糕的白熊<br>
-润色 想包餃子的黑熊</p>
-<p>感谢日曜日汉化组提供的漫画汉化</p>
 ]]></content>
     </entry>
     <entry>
@@ -779,6 +729,40 @@
 </blockquote>
 <!-- more -->
 <p>链接: https://pan.baidu.com/s/1NGgFfgu6bv1SzaaQPsvx6g 提取码: 1a8q</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[0376 I Can't Wait to be a Class]]></title>
+        <id>https://gamesdownload.github.io/post/0376-i-cant-wait-to-be-a-class/</id>
+        <link href="https://gamesdownload.github.io/post/0376-i-cant-wait-to-be-a-class/">
+        </link>
+        <updated>2020-05-24T08:01:37.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+<!-- more -->
+<p>链接: https://pan.baidu.com/s/1_RPihSjkjRE6RMZ5ubVr7Q 提取码: 34b2</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[0375 Fantasy Football Locker Stalker]]></title>
+        <id>https://gamesdownload.github.io/post/0375-fantasy-football-locker-stalker/</id>
+        <link href="https://gamesdownload.github.io/post/0375-fantasy-football-locker-stalker/">
+        </link>
+        <updated>2020-05-24T06:51:50.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+<!-- more -->
+<p>链接: https://pan.baidu.com/s/15uWObAZmCCh_3qF5PPRELw 提取码: ahhj</p>
 ]]></content>
     </entry>
 </feed>
