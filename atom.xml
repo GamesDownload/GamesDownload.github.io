@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gamesdownload.github.io</id>
     <title>GamesDownload</title>
-    <updated>2020-06-21T12:50:11.429Z</updated>
+    <updated>2020-06-21T14:36:23.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gamesdownload.github.io"/>
     <link rel="self" href="https://gamesdownload.github.io/atom.xml"/>
@@ -16,9 +16,14 @@
         <link href="https://gamesdownload.github.io/post/you-xi-mu-lu/">
         </link>
         <updated>2020-06-21T11:57:41.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+]]></summary>
         <content type="html"><![CDATA[<blockquote>
 <p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
 </blockquote>
+<!-- more -->
 <h2 id="目录">📒目录</h2>
 <ul>
 <li>0001 3D GayVilla 2</li>
@@ -412,6 +417,10 @@
 <li>0389 EraMegaten</li>
 <li>0390 Pain &amp; Gain</li>
 <li>0391 Hunk Hump Bump</li>
+<li>0392 Blackgate</li>
+<li>0393 Teoria dei Giochi 博弈论</li>
+<li>0394 BoofVR_Touch</li>
+<li>0395 赤红 灯火 妖魅行 赤与灯皆有诡异</li>
 <li>0WFL 未分类游戏</li>
 </ul>
 <hr>
@@ -424,9 +433,14 @@
         <link href="https://gamesdownload.github.io/post/gong-ju/">
         </link>
         <updated>2020-06-21T11:57:28.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+]]></summary>
         <content type="html"><![CDATA[<blockquote>
 <p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
 </blockquote>
+<!-- more -->
 <h2 id="关于工具">🔧关于工具</h2>
 <p>这里存放的都是用于对游戏进行修复以及提供其他帮助的软件，当出现游戏问题时，不妨来看看</p>
 <h2 id="目录">📒目录</h2>
@@ -454,9 +468,14 @@
         <link href="https://gamesdownload.github.io/post/geng-xin-ri-zhi/">
         </link>
         <updated>2020-06-21T11:57:18.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+]]></summary>
         <content type="html"><![CDATA[<blockquote>
 <p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
 </blockquote>
+<!-- more -->
 <h2 id="日志内容">📤日志内容</h2>
 <ul>
 <li>V0.1.0(20.5.10) 建立仓库，添加<strong>自述文件</strong>，<strong>目录</strong>，<strong>0001-0040号文件</strong></li>
@@ -471,7 +490,7 @@
 <li>V1.0.3(20.6.16) 更新仓库，添加<strong>0377-0384号文件</strong></li>
 <li>V1.0.4(20.6.19) 更新仓库，添加<strong>0385-0389号文件</strong></li>
 <li>V1.1.0(20.6.20) 更新仓库，添加<strong>0390号文件</strong>，添加<strong>0001-0190号文件标签</strong></li>
-<li>V1.1.1(20.6.21) 更新仓库，添加<strong>0191-0390号文件标签</strong>，<strong>0WFL号文件标签</strong>，更新<strong>0191号文件</strong>，<strong>0345号文件</strong></li>
+<li>V1.1.1(20.6.21) 更新仓库，添加<strong>0391-0395号文件</strong>，添加<strong>0191-0390号文件标签</strong>，<strong>0WFL号文件标签</strong>，更新<strong>0069号文件</strong>，<strong>0191号文件</strong>，<strong>315号文件</strong>，<strong>0345号文件</strong></li>
 </ul>
 ]]></content>
     </entry>
@@ -481,9 +500,14 @@
         <link href="https://gamesdownload.github.io/post/guan-yu/">
         </link>
         <updated>2020-06-21T07:24:05.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+]]></summary>
         <content type="html"><![CDATA[<blockquote>
 <p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
 </blockquote>
+<!-- more -->
 <h2 id="关于本站">🏠 关于本站</h2>
 <p>这是一个提供游戏下载链接的小站，希望可以给你带来帮助<br>
 本站内所有游戏均搜集于网络，如有侵犯你的权益，请联系我删除<br>
@@ -493,6 +517,57 @@
 <h2 id="联系我呀">📬 联系我呀</h2>
 <p>Email：Primarytastei@gmail.com<br>
 Github：https://github.com/GamesDownload/</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[0395 赤红 灯火 妖魅行 赤与灯皆有诡异]]></title>
+        <id>https://gamesdownload.github.io/post/0395-chi-hong-deng-huo-yao-mei-xing-chi-yu-deng-jie-you-gui-yi/</id>
+        <link href="https://gamesdownload.github.io/post/0395-chi-hong-deng-huo-yao-mei-xing-chi-yu-deng-jie-you-gui-yi/">
+        </link>
+        <updated>2020-06-21T06:32:31.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+<!-- more -->
+<p>链接: https://pan.baidu.com/s/19-XuOl1QFTU94H8mO-8Vrg 提取码: de2i</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[0393 Teoria dei Giochi 博弈论]]></title>
+        <id>https://gamesdownload.github.io/post/0393-teoria-dei-giochi-bo-yi-lun/</id>
+        <link href="https://gamesdownload.github.io/post/0393-teoria-dei-giochi-bo-yi-lun/">
+        </link>
+        <updated>2020-06-21T05:19:23.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+<!-- more -->
+<p>链接: https://pan.baidu.com/s/1jzdKsBIRJ5hnNo_bSUEEBg 提取码: uytc</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[0392 Blackgate]]></title>
+        <id>https://gamesdownload.github.io/post/0392-blackgate/</id>
+        <link href="https://gamesdownload.github.io/post/0392-blackgate/">
+        </link>
+        <updated>2020-06-21T04:21:32.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+<!-- more -->
+<p>链接: https://pan.baidu.com/s/1-Sy5r5wSeiTMhOImqqE2PQ 提取码: c2ca</p>
 ]]></content>
     </entry>
     <entry>
@@ -714,57 +789,6 @@ Github：https://github.com/GamesDownload/</p>
 </blockquote>
 <!-- more -->
 <p>链接: https://pan.baidu.com/s/1-DG54fsfW1USr2KfI9gXCA 提取码: vv2q</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[0378 Corruption of Champions II]]></title>
-        <id>https://gamesdownload.github.io/post/0378-corruption-of-champions-ii/</id>
-        <link href="https://gamesdownload.github.io/post/0378-corruption-of-champions-ii/">
-        </link>
-        <updated>2020-06-16T11:26:08.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-<!-- more -->
-<p>链接: https://pan.baidu.com/s/1qrtEc3LwPPV_t_3rki2ghw 提取码: nkpa</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[0377 GLadiator]]></title>
-        <id>https://gamesdownload.github.io/post/0377-gladiator/</id>
-        <link href="https://gamesdownload.github.io/post/0377-gladiator/">
-        </link>
-        <updated>2020-06-16T11:25:07.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-<!-- more -->
-<p>链接: https://pan.baidu.com/s/1NGgFfgu6bv1SzaaQPsvx6g 提取码: 1a8q</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[0376 I Can't Wait to be a Class]]></title>
-        <id>https://gamesdownload.github.io/post/0376-i-cant-wait-to-be-a-class/</id>
-        <link href="https://gamesdownload.github.io/post/0376-i-cant-wait-to-be-a-class/">
-        </link>
-        <updated>2020-05-24T08:01:37.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-<!-- more -->
-<p>链接: https://pan.baidu.com/s/1_RPihSjkjRE6RMZ5ubVr7Q 提取码: 34b2</p>
 ]]></content>
     </entry>
 </feed>
