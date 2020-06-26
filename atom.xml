@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gamesdownload.github.io</id>
     <title>GamesDownload</title>
-    <updated>2020-06-26T03:15:48.060Z</updated>
+    <updated>2020-06-26T08:27:47.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gamesdownload.github.io"/>
     <link rel="self" href="https://gamesdownload.github.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://gamesdownload.github.io/post/you-xi-mu-lu/</id>
         <link href="https://gamesdownload.github.io/post/you-xi-mu-lu/">
         </link>
-        <updated>2020-06-25T16:26:54.000Z</updated>
+        <updated>2020-06-26T05:30:20.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
 <p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
 </blockquote>
@@ -284,7 +284,7 @@
 <li>0256 花归葬</li>
 <li>0257 失落刻印</li>
 <li>0258 曙后星孤</li>
-<li>0259 魔法使之管</li>
+<li>0259 魔法使之馆</li>
 <li>0260 魔法使いと天使と悪魔</li>
 <li>0261 異形のアンテロス</li>
 <li>0262 异界之旅</li>
@@ -448,6 +448,13 @@
 <li>0420 迷宮野郎館</li>
 <li>0421 Hero's Destiny</li>
 <li>0422 虛空之神</li>
+<li>0423 HELLBRIDE</li>
+<li>0424 彷徨える狼</li>
+<li>0425 One Day Magical Boy!</li>
+<li>0426 Tender Land</li>
+<li>0427 Boyfriend's Rescue</li>
+<li>0428 NAUGHTYSHINOBI</li>
+<li>0429 Oh So Hero!</li>
 <li>0WFL 未分类游戏</li>
 </ul>
 <hr>
@@ -459,7 +466,7 @@
         <id>https://gamesdownload.github.io/post/gong-ju/</id>
         <link href="https://gamesdownload.github.io/post/gong-ju/">
         </link>
-        <updated>2020-06-25T16:26:46.000Z</updated>
+        <updated>2020-06-26T05:30:12.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
 <p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
 </blockquote>
@@ -486,6 +493,7 @@
 <li>012 Locale Emulator</li>
 <li>013 RPG Maker VX</li>
 <li>014 RMModifyV207 存档修改器</li>
+<li>015 XAPK安装器</li>
 </ul>
 ]]></content>
     </entry>
@@ -494,7 +502,7 @@
         <id>https://gamesdownload.github.io/post/geng-xin-ri-zhi/</id>
         <link href="https://gamesdownload.github.io/post/geng-xin-ri-zhi/">
         </link>
-        <updated>2020-06-25T16:26:35.000Z</updated>
+        <updated>2020-06-26T05:30:05.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
 <p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
 </blockquote>
@@ -512,7 +520,7 @@
 <li>V0.1.4(20.5.14) 更新仓库，添加<strong>0322-0337号文件</strong>，<strong>014号工具</strong></li>
 <li>V0.1.5(20.5.15) 更新仓库，添加<strong>0338-374号文件</strong></li>
 <li>V1.0.0(20.5.16) 更新仓库，变更<strong>仓库地址</strong></li>
-<li>V1.0.1(20.5.22) 更新仓库，替换<strong>仓库主题</strong>，添加<strong>搜索</strong>，<strong>友链</strong></li>
+<li>V1.0.1(20.5.22) 更新仓库，替换<strong>仓库主题</strong>，添加<strong>搜索</strong>，<strong>其他</strong></li>
 <li>V1.0.2(20.5.24) 更新仓库，添加<strong>0375号文件</strong>，<strong>0376号文件</strong>，更新<strong>0042号文件</strong>，<strong>0212号文件</strong></li>
 <li>V1.0.3(20.6.16) 更新仓库，添加<strong>0377-0384号文件</strong></li>
 <li>V1.0.4(20.6.19) 更新仓库，添加<strong>0385-0389号文件</strong></li>
@@ -520,6 +528,7 @@
 <li>V1.1.1(20.6.21) 更新仓库，添加<strong>0391-0395号文件</strong>，添加<strong>0191-0390号文件标签</strong>，<strong>0WFL号文件标签</strong>，更新<strong>0069号文件</strong>，<strong>0071号文件</strong>，<strong>0191号文件</strong>，<strong>0298号文件</strong>，<strong>0315号文件</strong>，<strong>0345号文件</strong></li>
 <li>V1.1.2(20.6.24) 更新仓库，添加<strong>0396-0407号文件</strong>，更新<strong>0002号文件</strong>，<strong>0305号文件</strong></li>
 <li>V1.1.3(20.6.25) 更新仓库，添加<strong>0408-0422号文件</strong>，更新<strong>0228号文件</strong></li>
+<li>V1.1.4(20.6.26) 更新仓库，添加<strong>0423-0429号文件</strong>，添加<strong>015号工具</strong></li>
 </ul>
 ]]></content>
     </entry>
@@ -528,7 +537,7 @@
         <id>https://gamesdownload.github.io/post/guan-yu/</id>
         <link href="https://gamesdownload.github.io/post/guan-yu/">
         </link>
-        <updated>2020-06-25T16:26:12.000Z</updated>
+        <updated>2020-06-26T05:29:58.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
 <p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
 </blockquote>
@@ -545,6 +554,142 @@
 希望你可以喜欢本站</p>
 <h2 id="联系我呀">📬 联系我呀</h2>
 <p>Github：https://github.com/GamesDownload/</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[0428 NAUGHTYSHINOBI]]></title>
+        <id>https://gamesdownload.github.io/post/0428-naughtyshinobi/</id>
+        <link href="https://gamesdownload.github.io/post/0428-naughtyshinobi/">
+        </link>
+        <updated>2020-06-26T05:22:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+<!-- more -->
+<p>链接: https://pan.baidu.com/s/1TMuqZCkuZYl7Dbh8H9dfDQ 提取码: avc3</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[0429 Oh So Hero!]]></title>
+        <id>https://gamesdownload.github.io/post/0429-oh-so-hero/</id>
+        <link href="https://gamesdownload.github.io/post/0429-oh-so-hero/">
+        </link>
+        <updated>2020-06-26T05:21:11.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+<!-- more -->
+<p>链接: https://pan.baidu.com/s/1eVuwuowg4Fhx3nXaoYXkSw 提取码: gtgc</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[0427 Boyfriend's Rescue]]></title>
+        <id>https://gamesdownload.github.io/post/0427-boyfriends-rescue/</id>
+        <link href="https://gamesdownload.github.io/post/0427-boyfriends-rescue/">
+        </link>
+        <updated>2020-06-26T05:20:08.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+<!-- more -->
+<p>链接: https://pan.baidu.com/s/1KMHbm_xWh5-o3LD2s0sWig 提取码: trd2</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[0426 Tender Land]]></title>
+        <id>https://gamesdownload.github.io/post/0426-tender-land/</id>
+        <link href="https://gamesdownload.github.io/post/0426-tender-land/">
+        </link>
+        <updated>2020-06-26T05:19:07.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+<!-- more -->
+<p>链接: https://pan.baidu.com/s/1ldJnpIgOUZwRXX97W5H8Mw 提取码: ba2n</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[0425 One Day Magical Boy!]]></title>
+        <id>https://gamesdownload.github.io/post/0425-one-day-magical-boy/</id>
+        <link href="https://gamesdownload.github.io/post/0425-one-day-magical-boy/">
+        </link>
+        <updated>2020-06-26T05:18:11.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+<!-- more -->
+<p>链接: https://pan.baidu.com/s/1oWAuL8y6GNLboALRcBbqjg 提取码: k1t2</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[0424 彷徨える狼]]></title>
+        <id>https://gamesdownload.github.io/post/0424-pang-huang-erulang/</id>
+        <link href="https://gamesdownload.github.io/post/0424-pang-huang-erulang/">
+        </link>
+        <updated>2020-06-26T05:17:18.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+<!-- more -->
+<p>链接: https://pan.baidu.com/s/1Zagh0tbWDXSWiyNb_jjwrQ 提取码: wq2k</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[0423 HELLBRIDE]]></title>
+        <id>https://gamesdownload.github.io/post/0423-hellbride/</id>
+        <link href="https://gamesdownload.github.io/post/0423-hellbride/">
+        </link>
+        <updated>2020-06-26T05:14:53.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+<!-- more -->
+<p>链接: https://pan.baidu.com/s/15EBL4t-ACckrtEx8a8eEyQ 提取码: an8z</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[015 XAPK安装器]]></title>
+        <id>https://gamesdownload.github.io/post/015-xapk-an-zhuang-qi/</id>
+        <link href="https://gamesdownload.github.io/post/015-xapk-an-zhuang-qi/">
+        </link>
+        <updated>2020-06-26T05:06:26.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+<!-- more -->
+<p>链接: https://pan.baidu.com/s/1VQoHciNlrL18eL2S9XYySg 提取码: b1v7</p>
 ]]></content>
     </entry>
     <entry>
@@ -681,142 +826,6 @@
 </blockquote>
 <!-- more -->
 <p>链接: https://pan.baidu.com/s/1jSMPJARz7pUQykcZBNZaZA 提取码: 5iud</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[0415 街霸]]></title>
-        <id>https://gamesdownload.github.io/post/0415-jie-ba/</id>
-        <link href="https://gamesdownload.github.io/post/0415-jie-ba/">
-        </link>
-        <updated>2020-06-25T15:05:13.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-<!-- more -->
-<p>链接: https://pan.baidu.com/s/1hcvpgqPdVGwkhoH0YNMlKg 提取码: 8tg8</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[0413 サイコロで爆発寸前]]></title>
-        <id>https://gamesdownload.github.io/post/0413-saikorodebao-fa-cun-qian/</id>
-        <link href="https://gamesdownload.github.io/post/0413-saikorodebao-fa-cun-qian/">
-        </link>
-        <updated>2020-06-25T15:04:30.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-<!-- more -->
-<p>链接: https://pan.baidu.com/s/1j08VDknaPx3GoDYU-p-70A 提取码: rgn1</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[0412 过程访问]]></title>
-        <id>https://gamesdownload.github.io/post/0412-guo-cheng-fang-wen/</id>
-        <link href="https://gamesdownload.github.io/post/0412-guo-cheng-fang-wen/">
-        </link>
-        <updated>2020-06-25T15:03:45.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-<!-- more -->
-<p>链接: https://pan.baidu.com/s/1zmfrwf5yoBWgdBd0dmjitQ 提取码: jyey</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[0411 霸王阴功]]></title>
-        <id>https://gamesdownload.github.io/post/0411-ba-wang-yin-gong/</id>
-        <link href="https://gamesdownload.github.io/post/0411-ba-wang-yin-gong/">
-        </link>
-        <updated>2020-06-25T15:02:25.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-<!-- more -->
-<p>链接: https://pan.baidu.com/s/1Qzm8yNP577peZs5ea4ggWg 提取码: bex5</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[0410 OONYX Games]]></title>
-        <id>https://gamesdownload.github.io/post/0410-oonyx-games/</id>
-        <link href="https://gamesdownload.github.io/post/0410-oonyx-games/">
-        </link>
-        <updated>2020-06-25T15:00:50.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-<!-- more -->
-<p>链接: https://pan.baidu.com/s/1AL8EteW7KrQ6t3RpnKiqmg 提取码: 8wi2</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[0409 Blank Blood Delga version]]></title>
-        <id>https://gamesdownload.github.io/post/0409-blank-blood-delga-version/</id>
-        <link href="https://gamesdownload.github.io/post/0409-blank-blood-delga-version/">
-        </link>
-        <updated>2020-06-25T15:00:49.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-<!-- more -->
-<p>链接: https://pan.baidu.com/s/1KUZGIf7WuFGky5jzNDbipA 提取码: tn2q</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[0408 SpecialFriends2020]]></title>
-        <id>https://gamesdownload.github.io/post/0408-specialfriends2020/</id>
-        <link href="https://gamesdownload.github.io/post/0408-specialfriends2020/">
-        </link>
-        <updated>2020-06-25T14:59:53.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-<!-- more -->
-<p>链接: https://pan.baidu.com/s/1dYWQWT8PxO8lqODhx84DGg 提取码: 3fjh</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[0407 コイビト遊戯]]></title>
-        <id>https://gamesdownload.github.io/post/0407-koibitoyou-xi/</id>
-        <link href="https://gamesdownload.github.io/post/0407-koibitoyou-xi/">
-        </link>
-        <updated>2020-06-24T06:08:35.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-<!-- more -->
-<p>链接: https://pan.baidu.com/s/198RWuf7tBXa3KSOJgULCgw 提取码: 3mrv</p>
 ]]></content>
     </entry>
 </feed>
