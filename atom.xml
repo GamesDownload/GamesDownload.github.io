@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gamesdownload.github.io</id>
     <title>GamesDownload</title>
-    <updated>2020-10-01T05:58:43.147Z</updated>
+    <updated>2020-10-01T06:00:47.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gamesdownload.github.io"/>
     <link rel="self" href="https://gamesdownload.github.io/atom.xml"/>
@@ -10,30 +10,6 @@
     <logo>https://gamesdownload.github.io/images/avatar.png</logo>
     <icon>https://gamesdownload.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, GamesDownload</rights>
-    <entry>
-        <title type="html"><![CDATA[关于]]></title>
-        <id>https://gamesdownload.github.io/post/guan-yu/</id>
-        <link href="https://gamesdownload.github.io/post/guan-yu/">
-        </link>
-        <updated>2020-10-02T05:46:57.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
-</blockquote>
-<!-- more -->
-<h2 id="关于本站">🏠 关于本站</h2>
-<p>这是一个提供游戏下载链接的小站，希望可以给你带来帮助<br>
-本站内所有游戏均搜集于网络，如有侵犯你的权益，请联系我删除<br>
-本站内所有游戏请下载后解压，如链接失效请及时与我联系恢复<br>
-本站内所有游戏解压码请加群获取<br>
-希望你可以喜欢本站</p>
-<h2 id="联系我呀">📬 联系我呀</h2>
-<p>Github：https://github.com/GamesDownload/</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[游戏目录]]></title>
         <id>https://gamesdownload.github.io/post/you-xi-mu-lu/</id>
@@ -637,6 +613,30 @@
 <li>V1.1.6(20.7.2) 更新仓库，添加<strong>0450-0461号文件</strong>，更新<strong>0083号文件</strong>，<strong>0106号文件</strong>，<strong>0117号文件</strong>，<strong>0244号文件</strong>，<strong>0316号文件</strong>，<strong>0392号文件</strong>，删除<strong>0WFL号文件</strong></li>
 <li>V1.1.7(20.10.1) 更新仓库，添加<strong>0462-0490号文件</strong>，更新<strong>0042号文件</strong>，<strong>0164号文件</strong></li>
 </ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://gamesdownload.github.io/post/guan-yu/</id>
+        <link href="https://gamesdownload.github.io/post/guan-yu/">
+        </link>
+        <updated>2020-10-02T03:46:57.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到GamesDownload，很高兴遇见你！🤝</p>
+</blockquote>
+<!-- more -->
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>这是一个提供游戏下载链接的小站，希望可以给你带来帮助<br>
+本站内所有游戏均搜集于网络，如有侵犯你的权益，请联系我删除<br>
+本站内所有游戏请下载后解压，如链接失效请及时与我联系恢复<br>
+本站内所有游戏解压码请加群获取<br>
+希望你可以喜欢本站</p>
+<h2 id="联系我呀">📬 联系我呀</h2>
+<p>Github：https://github.com/GamesDownload/</p>
 ]]></content>
     </entry>
     <entry>
